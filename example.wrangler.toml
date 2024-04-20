@@ -1,0 +1,12 @@
+name = "go-worker-d1"
+main = "./build/worker.mjs"
+compatibility_date = "2024-04-15"
+
+[build]
+command = "make build"
+
+[[d1_databases]]
+binding = "DB"                                 # i.e. available in your Worker on env.DB
+database_name = "d1-todo-server"
+database_id = "YOUR_DATABASE_ID"
+preview_database_id = "d1-todo-server-preview"

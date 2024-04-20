@@ -1,0 +1,4 @@
+github.com/go-michi/michi v0.0.1 h1:n0+8HVYljEZapyRZ2pfFo8GTQiiEPmGuJOfuBtmIFMQ=
+github.com/go-michi/michi v0.0.1/go.mod h1:zRfxdffGAlNXjp6ZXH9NR/T9WHlhRczkM5QHdyjC6xM=
+github.com/syumai/workers v0.24.0 h1:ByO3n+AoZrd8qMfwbMm9mGKyEdQEGuE10FJ9kE6h3f4=
+github.com/syumai/workers v0.24.0/go.mod h1:ZnqmdiHNBrbxOLrZ/HJ5jzHy6af9cmiNZk10R9NrIEA=
